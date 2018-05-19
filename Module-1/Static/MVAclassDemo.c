@@ -10,7 +10,7 @@ namespace MVA_Class_Demo
     {
         static void Main(string[] args)
         {
-            //DrinkMachine myMachine = new DrinkMachine();
+            //DrinkMachine myMachine = new DrinkMachine(); - No longer needed
             Console.WriteLine(Math.Pow(2, 8)); // value 256 which is 2 by the 8th power
         }
     }

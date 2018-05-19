@@ -41,7 +41,7 @@ public class DrinksMachine
    public string Model { get; set; }
    public static int CountDrinksMachines()
    {
-      // Add method logic here.
+      // Add method logic here...
    }
 }
 
@@ -49,5 +49,5 @@ public class DrinksMachine
 member. You do not need to instantiate the class in order to use static members. You access static
 members through the class name rather than the instance name, as shown by the following example: */
 
-// Access Static Members
+// Access Static Members:
 int drinksMachineCount = DrinksMachine.CountDrinksMachines();

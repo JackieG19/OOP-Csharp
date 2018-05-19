@@ -15,11 +15,11 @@ namespace MVA_Class_Demo
             this.Location = model;
         }
 
-        private string _location;
+        private string _location; // private value
 
         public string Location
         {
-            get { return _location; }
+            get { return _location; } // property value
             get { _location = value; }
         }
 
