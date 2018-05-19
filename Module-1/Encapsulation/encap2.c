@@ -20,7 +20,7 @@ empty public default constructor to your compiled class.*/
 /* Consumers of your class can use any of the constructors to create instances of your class,
 depending on the information that is available to them at the time. For example: */
 
-// Calling Constructors
+// Calling Constructors:
 var dm1 = new DrinksMachine(2);
 var dm2 = new DrinksMachine("Fourth Coffee", "BeanCrusher 3000");
 var dm3 = new DrinksMachine(3, "Fourth Coffee", "BeanToaster Turbo");

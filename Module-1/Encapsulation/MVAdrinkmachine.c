@@ -54,5 +54,6 @@ namespace MVA_Class_Demo
 
 }
 
-/* When going to the processof applying those value in the code will be using "value" as the parameter
+/* Note:
+When going to the processof applying those value in the code will be using "value" as the parameter
 that as accepted, or has brought in the value itself*/
