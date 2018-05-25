@@ -1,0 +1,28 @@
+----------------- Implicit and Explicit Implementation -------------------
+
+To implement an interface implicitly, you implement each interface member with a signature that matches
+the member definition in the interface. To implement an interface explicitly, you fully qualify each member
+name so that it is clear that the member belongs to a particular interface.
+
+The following example shows an explicit implementation of the IBeverage interface:
+
+// Implementing an Interface Explicitly
+public class Coffee : IBeverage
+{
+   private int servingTempWithoutMilk { get; set; }
+   private int servingTempWithMilk { get; set; }
+   public int IBeverage.GetServingTemperature(bool includesMilk)
+   {
+      if(includesMilk)
+      {
+          return servingTempWithMilk;
+      }
+      else
+      {
+         return servingTempWithoutMilk;
+      }
+   }
+   public bool IBeverage.IsFairTrade { get; set; }
+   // Other non-interface members.
+}
+

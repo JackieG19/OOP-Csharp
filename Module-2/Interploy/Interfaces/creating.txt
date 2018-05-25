@@ -1,0 +1,20 @@
+------------- Creating Interfaces --------------
+
+ The syntax for defining an interface is similar to the syntax for defining a class.
+
+You use the interface keyword to declare an interface, as shown by the following example:
+
+// Declaring an Interface
+public interface IBeverage
+{
+  // Methods, properties, events, and indexers go here.
+}
+
+Similar to a class declaration, an interface declaration can include an access modifier.
+You can use the following access modifiers in your interface declarations:
+
+Access modifier: Description
+
+public: The interface is available to code running in any assembly.
+internal: The interface is available to any code within the same assembly, but not available to code in
+          another assembly. This is the default value if you do not specify an access modifier.
