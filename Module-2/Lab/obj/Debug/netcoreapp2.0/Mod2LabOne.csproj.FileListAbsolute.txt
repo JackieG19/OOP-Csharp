@@ -1,0 +1,11 @@
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/bin/Debug/netcoreapp2.0/Mod2LabOne.deps.json
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/bin/Debug/netcoreapp2.0/Mod2LabOne.runtimeconfig.json
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/bin/Debug/netcoreapp2.0/Mod2LabOne.runtimeconfig.dev.json
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/bin/Debug/netcoreapp2.0/Mod2LabOne.dll
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/bin/Debug/netcoreapp2.0/Mod2LabOne.pdb
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.csprojAssemblyReference.cache
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.AssemblyInfoInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.AssemblyInfo.cs
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.dll
+/Users/owner/Projects/EDXLabOne/EDXMod2/Mod2LabOne/obj/Debug/netcoreapp2.0/Mod2LabOne.pdb

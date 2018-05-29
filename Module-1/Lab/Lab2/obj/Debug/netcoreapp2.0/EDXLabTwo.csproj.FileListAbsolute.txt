@@ -1,0 +1,11 @@
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/bin/Debug/netcoreapp2.0/EDXLabTwo.deps.json
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/bin/Debug/netcoreapp2.0/EDXLabTwo.runtimeconfig.json
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/bin/Debug/netcoreapp2.0/EDXLabTwo.runtimeconfig.dev.json
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/bin/Debug/netcoreapp2.0/EDXLabTwo.dll
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/bin/Debug/netcoreapp2.0/EDXLabTwo.pdb
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.csprojAssemblyReference.cache
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.AssemblyInfoInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.AssemblyInfo.cs
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.dll
+/Users/owner/Projects/EDXLabOne/EDXLabTwo/obj/Debug/netcoreapp2.0/EDXLabTwo.pdb

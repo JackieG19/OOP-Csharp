@@ -1,0 +1,11 @@
+/Users/owner/Projects/EDXLabOne/EDXLabThree/bin/Debug/netcoreapp2.0/EDXLabThree.deps.json
+/Users/owner/Projects/EDXLabOne/EDXLabThree/bin/Debug/netcoreapp2.0/EDXLabThree.runtimeconfig.json
+/Users/owner/Projects/EDXLabOne/EDXLabThree/bin/Debug/netcoreapp2.0/EDXLabThree.runtimeconfig.dev.json
+/Users/owner/Projects/EDXLabOne/EDXLabThree/bin/Debug/netcoreapp2.0/EDXLabThree.dll
+/Users/owner/Projects/EDXLabOne/EDXLabThree/bin/Debug/netcoreapp2.0/EDXLabThree.pdb
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.csprojAssemblyReference.cache
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.AssemblyInfoInputs.cache
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.AssemblyInfo.cs
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.dll
+/Users/owner/Projects/EDXLabOne/EDXLabThree/obj/Debug/netcoreapp2.0/EDXLabThree.pdb

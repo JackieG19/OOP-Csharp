@@ -1,0 +1,11 @@
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.csprojAssemblyReference.cache
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.AssemblyInfoInputs.cache
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.AssemblyInfo.cs
+/Users/owner/Projects/EDXMod3/bin/Debug/netcoreapp2.0/EDXMod3.deps.json
+/Users/owner/Projects/EDXMod3/bin/Debug/netcoreapp2.0/EDXMod3.runtimeconfig.json
+/Users/owner/Projects/EDXMod3/bin/Debug/netcoreapp2.0/EDXMod3.runtimeconfig.dev.json
+/Users/owner/Projects/EDXMod3/bin/Debug/netcoreapp2.0/EDXMod3.dll
+/Users/owner/Projects/EDXMod3/bin/Debug/netcoreapp2.0/EDXMod3.pdb
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.dll
+/Users/owner/Projects/EDXMod3/obj/Debug/netcoreapp2.0/EDXMod3.pdb
