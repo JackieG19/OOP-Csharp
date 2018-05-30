@@ -29,6 +29,7 @@ namespace ConsoleApp2
 
         public void ReadDetails(string fileName)
         {
+            // creating a new steamreader using a file name that would be passed in from the application
             sr = StreamReader(fileName);
 
             try
@@ -36,31 +37,31 @@ namespace ConsoleApp2
                 // open the text file using a stream reader
                 using (sr)
                 {
-                    // Read the stream to a string, and write the string to the console
-                    String line = sr.ReadToEnd;
-                    Console.WriteLine(line);
+                    String line = sr.ReadToEnd; // Read the stream to a string...
+                    Console.WriteLine(line); // ...and write the string to the console
                 }
             }
-
-            catch (Expection e)
+            // if an expection occurs...
+            catch (Expection e) // catch that expection
             {
+                // write out informational message to the console window
                 Console.WriteLine("This file can not be read:");
                 Console.WriteLine(e.Message);
             }
 
             finally
             {
-                sr.Close();
-                sr = null;
+                sr.Close(); // close the steamreader...
+                sr = null; //...and ste it to null
             }
         }
 
-        public bool WrireDetails(string fileName)
+        public bool WrireDetails(string fileName) // metod that takes a file names
         {
-            bool result = false;
-            outputFile = new StreamWrite(fileNmae);
+            bool result = false; // return a result of successfully written the file out or not
+            outputFile = new StreamWrite(fileNmae); // represent it as a new string steamreader object
 
-            // Create a string array with the lines to text
+            // Create a string array with the lines to text that output different property value
             string[] lines = { this.PersonID.ToString(), this.FirstName, this.LastName, this.Gender, this.Age.ToString() };
 
             try
@@ -88,6 +89,33 @@ namespace ConsoleApp2
             }
 
             return result;
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        protected virtual voild Dispose(bool disaposing)
+        {
+            if(!disposed)
+            {
+                if(disposing)
+                {
+                    if(sr != null)
+                    {
+                        sr.Close();
+                    }
+
+                    if(outputFile != null)
+                    {
+                        outputFile.Close();
+                    }
+                }
+            }
+
+            disposed = true;
         }
     }
 }
